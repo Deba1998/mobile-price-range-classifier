@@ -32,3 +32,5 @@ confusion matrix for model.py is:-
 
 
 confusion matrix for model in 2-d is:-
+
+![Screenshot (89)](https://user-images.githubusercontent.com/49706281/68924403-c6d47780-07a6-11ea-986f-713de3941269.png)
