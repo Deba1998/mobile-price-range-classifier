@@ -44,4 +44,4 @@ The graph for test set for model in 2-d is :-
 
 ![TEST SET IMAGE](https://user-images.githubusercontent.com/49706281/68924659-54b06280-07a7-11ea-974e-eed1d5f4c593.png)
 
-And finally we predict the price range of the mobiles of the predict.csv file   using our model.py
+And finally we predict the price range of the mobiles of the predict.csv file   using our model.py and saved the values  in predict values.npy file 
