@@ -26,5 +26,9 @@ As the x matrix consists of many features we have reduced the  dimensions using 
 
 The initial model is saved in model.py
 
-confusion matrix for model.py are like:-
+confusion matrix for model.py is:-
 
+![Screenshot (88)](https://user-images.githubusercontent.com/49706281/68924163-19616400-07a6-11ea-9392-e7592fcd8c77.png)
+
+
+confusion matrix for model in 2-d is:-
