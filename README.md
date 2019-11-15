@@ -37,7 +37,9 @@ confusion matrix for model in 2-d is:-
 
 The graph for training set for model in 2-d is:-
 
+![TRAINING SET IMAGE](https://user-images.githubusercontent.com/49706281/68924555-1fa41000-07a7-11ea-8c1c-20225dbe2a9b.png)
 
 
-the graph for test set for model in 2-d is :-
+The graph for test set for model in 2-d is :-
+
 
