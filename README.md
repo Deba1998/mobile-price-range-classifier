@@ -1,2 +1,30 @@
 # mobile-price-range-classifier
+
 we classify different mobiles into different price range based on its specifications
+
+
+Differnt price ranges are 0,1,2,3
+
+
+We have used different models for classification and find that svm produces the best accuracy for this prediction 
+
+
+The differnt accuracies for different models are as follows
+
+SVM=97.18%
+
+NAIVE BAYES= 80.62%
+
+DECISION TREE=85.88%
+
+
+RANDOM FOREST=88%(after applying grid search to modify the accuracy)
+
+We have calculated differnt accuracies by taking mean of the results obtained from k-fold cross validation and improving the accuracies by applying grid search
+
+As the x matrix consists of many features we have reduced the  dimensions using dimesionality techniques LDA and save it modelin 2-d and plot the graph for visualization
+
+The initial model is saved in model.py
+
+confusion matrix for model.py are like:-
+
