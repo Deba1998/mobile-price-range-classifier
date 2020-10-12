@@ -11,7 +11,7 @@ We have used different models for classification and find that svm produces the 
 
 The differnt accuracies for different models are as follows
 
-SVM=97.18%
+SVM=95.93%
 
 NAIVE BAYES= 80.62%
 
